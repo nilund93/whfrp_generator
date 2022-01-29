@@ -1,4 +1,4 @@
-humancareer={
+human_careers={
                 1:"apothecary",
                 2:"engineer",
                 3:"lawyer",
@@ -100,7 +100,7 @@ humancareer={
                 99:"soldier",
                 100:"warrior priest"
             }
-dwarfcareer={
+dwarf_careers={
                 1:"apothecary",
                 2:"engineer",
                 3:"engineer",
@@ -202,7 +202,7 @@ dwarfcareer={
                 99:"slayer",
                 100:"slayer"
             }
-halflingcareer={
+halfling_careers={
                 1:"apothecary",
                 2:"engineer",
                 3:"lawyer",
@@ -304,7 +304,7 @@ halflingcareer={
                 99:"soldier",
                 100:"soldier"
             }
-highelfcareer={
+highelf_careers={
                 1:"apothecary",
                 2:"apothecary",
                 3:"lawyer",
@@ -406,7 +406,7 @@ highelfcareer={
                 99:"soldier",
                 100:"soldier"
             }
-woodelfcareer={
+woodelf_careers={
                 1:"scholar",
                 2:"wizard",
                 3:"wizard",
@@ -508,3 +508,12 @@ woodelfcareer={
                 99:"soldier",
                 100:"soldier"
             }
+
+academics = ["apothecary", "engineer", "lawyer", "nun", "physician", "priest", "scholar", "wizard"]
+burghers = ["agitator", "artisan", "beggar", "investigator", "merchant", "rat catcher", "townsman", "watchman"]
+courtiers = ["advisor", "artist", "duelist", "envoy", "noble", "servant", "spy", "warden"]
+peasants = ["bailiff", "hedge witch", "herbalist", "hunter", "miner", "mystic", "scout", "villager"]
+rangers = ["bounty hunter", "coachman", "entertainer", "flagellant", "messenger", "pedlar", "road warden", "witch hunter"]
+riverfolk = ["boatman", "huffer", "riverwarden", "riverwoman", "seaman", "smuggler", "stevedore", "wrecker"]
+rogues = ["bawd", "charlatan", "fence", "grave robber", "outlaw", "racketeer", "theif", "witch"]
+warriors = ["cavalryman", "guard", "knight", "pit fighter", "protagonist", "soldier", "slayer", "warrior priest"]
