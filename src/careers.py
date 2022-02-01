@@ -1,3 +1,4 @@
+# careers
 human_careers={
                 1:"apothecary",
                 2:"engineer",
@@ -54,7 +55,7 @@ human_careers={
                 53:"entertainer",
                 54:"entertainer",
                 55:"flagellant",
-                56:"falgellant",
+                56:"flagellant",
                 57:"messenger",
                 58:"pedlar",
                 59:"road warden",
@@ -92,7 +93,7 @@ human_careers={
                 91:"guard",
                 92:"guard",
                 93:"knight",
-                94:"pit figher",
+                94:"pit fighter",
                 95:"protagonist",
                 96:"soldier",
                 97:"soldier",
@@ -509,6 +510,7 @@ woodelf_careers={
                 100:"soldier"
             }
 
+# class
 academics = ["apothecary", "engineer", "lawyer", "nun", "physician", "priest", "scholar", "wizard"]
 burghers = ["agitator", "artisan", "beggar", "investigator", "merchant", "rat catcher", "townsman", "watchman"]
 courtiers = ["advisor", "artist", "duelist", "envoy", "noble", "servant", "spy", "warden"]
@@ -517,3 +519,34 @@ rangers = ["bounty hunter", "coachman", "entertainer", "flagellant", "messenger"
 riverfolk = ["boatman", "huffer", "riverwarden", "riverwoman", "seaman", "smuggler", "stevedore", "wrecker"]
 rogues = ["bawd", "charlatan", "fence", "grave robber", "outlaw", "racketeer", "theif", "witch"]
 warriors = ["cavalryman", "guard", "knight", "pit fighter", "protagonist", "soldier", "slayer", "warrior priest"]
+
+# names
+male_reiklander = ["Aimar", "Askan", "Gerlach", "Rudolf", "Elmer", 
+                   "Siegfried", "Hans", "Wilmer", "Helmer", "Helmut", 
+                   "Wilbur", "Bruno", "Leonhard", "Lambert", "Reinhard", 
+                   "Gotthard", "Ludwig", "Otto", "Dagobert", "Theobald", 
+                   "Ralf", "Rolf", "Friedrich", "Dieter", "Adolf", 
+                   "Heinrich", "Ralf"]
+
+female_reiklander = ["Clementia", "Erika", "Fryke", "Frederike", 
+                     "Gerthrud", "Helga", "Marieke", "Siegfreda", 
+                     "Frieda", "Ulrika", "Wilhelmina", "Liebtrud", 
+                     "Saskia", "Hildegard", "Hallgerd", "Ebba", "Hulda", 
+                     "Yvonne", "Charlotte", "Inge", "Kajsa", "Kirsa", 
+                     "Geraldine"]
+
+reiklander_surname = ["Schaffenberger", "Adolphus", "Auerswalder", 
+                      "Wissenlander", "Averlander", "Baumer",
+                      "Autlermann", "Nordlander", "Damstadter",
+                      "Eshermann", "Esselmann", "Breuer", 
+                      "Bredermann", "Dasselmann", "Diermar",
+                      "Donatus", "Eilhardt", "Ehrhard", 
+                      "Dunkelberg", "Erasmus", "Gustavus", 
+                      "Hergiger", "Henroth", "Hasselmann",
+                      "Hausier", "Hahnbrandt", "Gundersohn",
+                      "Heffengenger", "Heidmann", "Heinrich",
+                      "Jaeger", "Bauer", "Hausier", 
+                      "Hetzer", "Horst", "Feldtmann", 
+                      "Feldt", "Garmann", "Frohlich", 
+                      "Gisel", "Grenz", "Grundenburger", 
+                      "Heinz", "Geldt", "Klein"]
