@@ -1,4 +1,4 @@
-from random import randint
+from random import randint, choice
 from entities import Entity
 from careers import *
 
@@ -99,4 +99,8 @@ def pick_class(this_char: dict):
     this_char["class"] = class_var
     this_char["career"] = career_var
     
-    
+def generate_reiklander_name():
+    return f"{choice(male_reiklander)} {choice(reiklander_surname)}"
+
+def generate_human_career():
+    return human_careers[randint(0, 100)]
